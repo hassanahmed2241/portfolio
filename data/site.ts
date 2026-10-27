@@ -9,7 +9,7 @@ export const site = {
   role: "Senior Software Engineer · Full-Stack",
   location: "Lahore, Pakistan",
   // Change this after deploying (or once you connect a custom domain).
-  url: "https://hassanahmed.vercel.app",
+  url: "https://portfolio-lyart-xi-73.vercel.app",
 
   // Shown as a small badge in the hero. Set to "" to hide it.
   availability: "Open to full-stack roles & remote projects",
